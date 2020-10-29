@@ -1,0 +1,10 @@
+C:\Users\andre_000\source\repos\EX_GridForms\obj\Debug\EX_GridForms.csprojAssemblyReference.cache
+C:\Users\andre_000\source\repos\EX_GridForms\obj\Debug\EX_GridForms.Form1.resources
+C:\Users\andre_000\source\repos\EX_GridForms\obj\Debug\EX_GridForms.Properties.Resources.resources
+C:\Users\andre_000\source\repos\EX_GridForms\obj\Debug\EX_GridForms.csproj.GenerateResource.cache
+C:\Users\andre_000\source\repos\EX_GridForms\obj\Debug\EX_GridForms.csproj.CoreCompileInputs.cache
+C:\Users\andre_000\source\repos\EX_GridForms\bin\Debug\EX_GridForms.exe.config
+C:\Users\andre_000\source\repos\EX_GridForms\bin\Debug\EX_GridForms.exe
+C:\Users\andre_000\source\repos\EX_GridForms\bin\Debug\EX_GridForms.pdb
+C:\Users\andre_000\source\repos\EX_GridForms\obj\Debug\EX_GridForms.exe
+C:\Users\andre_000\source\repos\EX_GridForms\obj\Debug\EX_GridForms.pdb
